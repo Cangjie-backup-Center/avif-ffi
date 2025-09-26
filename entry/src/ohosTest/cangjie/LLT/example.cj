@@ -1,0 +1,2 @@
+package ohos_app_cangjie_entry_test.LLT
+
